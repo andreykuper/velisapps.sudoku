@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.velisapp.sudoku_app.SquareLinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/grid_border"
+    android:gravity="center">
+
+    <TextView
+        android:id = "@+id/final_number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        />
+
+</com.velisapp.sudoku_app.SquareLinearLayout>
